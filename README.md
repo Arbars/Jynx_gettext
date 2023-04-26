@@ -2,7 +2,7 @@
 Jynx
 ====
 
-Emulator for the 1983 Camputers Lynx Microcomputer, written by Jonathan Markland.
+Fork of emulator for the 1983 Camputers Lynx Microcomputer, written by Jonathan Markland.
 
 Please refer to the readme.htm for installation instructions.
 
@@ -25,6 +25,9 @@ When I get around to re-testing, I will apply a new version tag, but since
 it takes about 3-4 hours to run the manual test plan, I think I will
 leave this until I do further work on Jynx.
 
+Main goal of this fork:
+ - adding gettext support (translation on other languages)
+ - adding LFS support
 	
 For Windows
 -----------
